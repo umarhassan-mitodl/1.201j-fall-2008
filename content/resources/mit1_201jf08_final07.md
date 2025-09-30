@@ -4,6 +4,8 @@ description: Final exam on transportation systems analysis.
 file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/b234e9a9f28f9f114e4a2df9ccf04722_MIT1_201JF08_final07.pdf
 file_size: 262289
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
